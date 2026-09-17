@@ -1,4 +1,4 @@
-Información académica
+# Información académica
 
 Presentado por: Yokcel Alejandro Ibarra Gaviria
 
