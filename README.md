@@ -1,8 +1,11 @@
 Información académica
 
 Presentado por: Yokcel Alejandro Ibarra Gaviria
+
 Curso: Optativa I - Virtual
+
 Docente: Juan Esteban Angulo Uribe
+
 Institución: ITM
 
 
